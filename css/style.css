@@ -128,7 +128,7 @@ img {
     gap: 10px;
     margin-bottom: 20vh;
     filter: brightness(1);
-    border-radius: none;                     
+    border-radius: 0px;                     
 }
 
 .preview-1{
