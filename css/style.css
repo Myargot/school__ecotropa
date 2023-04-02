@@ -127,8 +127,7 @@ img {
     flex-direction: column;
     gap: 10px;
     margin-bottom: 20vh;
-    filter: brightness(1);
-    border-radius: 0px;                     
+    filter: brightness(1);                     
 }
 
 .preview-1{
